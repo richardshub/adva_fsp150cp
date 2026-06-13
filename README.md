@@ -1,5 +1,4 @@
-# adva_fsp150cp
-ADVA FSP150CP
+# ADVA FSP150CP
 
 **COM Port:**<br/>
 57600 Baud
